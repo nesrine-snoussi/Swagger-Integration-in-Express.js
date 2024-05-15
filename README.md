@@ -6,8 +6,10 @@ Before we dive into the integration, make sure you have the following installed:
 
 ## Step 1: Setting Up a New Express.js Project
 Initialize a new Node.js project and install Express.js:
+```
 npm init -y
 npm install express
+```
 
 ## Step 2: Installing Swagger Tools
 Run the following commands in your terminal :
