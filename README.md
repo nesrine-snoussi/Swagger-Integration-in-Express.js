@@ -13,3 +13,11 @@ Initialize a new Node.js project and install Express.js:
 ```sh
 npm init -y
 npm install express
+```sh
+## Step 2: Installing Swagger Tools
+Run the following commands in your terminal :
+```sh
+npm install swagger-jsdoc swagger-ui-express
+```sh
+## Step 3 : Configuring Swagger
+Create a new file named [swagger.js](https://github.com/nesrine-snoussi/Swagger-Integration-in-Express.js/blob/master/swagger.js) to configure Swagger in your project
